@@ -7,8 +7,6 @@ Dockerfile
 README.md
 LICENSE
 
-*.db
-files/*.cfg
 files/*.state
 files/*.key
 files/*.log
